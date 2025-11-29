@@ -11,12 +11,12 @@ void perimeter(int a, int b)
 }
 int main()
 {
-    int a, b;
+    int a, c;
     printf("enter width :");
     scanf("%d", &a);
     printf("enter length :");
-    scanf("%d", &b);
-    area(a, b);
-    perimeter(a, b);
+    scanf("%d", &c);
+    area(a, c);
+    perimeter(a, c);
     return 0;
 }
