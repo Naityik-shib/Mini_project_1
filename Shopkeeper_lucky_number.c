@@ -1,4 +1,4 @@
-/*🧮 Question 2: The Shopkeeper’s Lucky Number
+/* Question 2: The Shopkeeper’s Lucky Number
 
 Problem Story:
 A shopkeeper named Ramesh has a lucky number. He believes that if the number is even, he will have a lucky day, and if it is odd, he will have to work harder. He also wants to check if the number is divisible by 5, as that brings him extra luck!
